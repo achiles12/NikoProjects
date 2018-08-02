@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8dd279834546e05b9fa93610e91fd6d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\38164c5c82c3293bbf865ee2dd5d6016\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\24e789af874241029b8df9618df72e05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1ac6a7a25df7f4dba27c4ffe02756a95\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\83dac78f94368ae1297de509d5959674\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\cce78c6ef6d0df9fdbea63b8bc01ec54\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\6d45cf0aacef50496076090830a0e232\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\feedb4826fd8fa07977178826cf0fee7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\575a9df04fd14c217b36516fcc428966\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\cf66613dca094f94454a33276b01649f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8e941511d3a925b4505309c71306a4ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\49ef3647175c7ff3684fa378dc29716e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\020f770e579ef4b9448cf5a275b0cfda\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fdf5a9e414a4d98c7d4721ec8a3d9623\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2d65d0df98aa5b97632703769e720264\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\93a8a0fea30a3cef120aff8eb4aeda13\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cec077386a6fd5b5b73d27d05356797a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:11:5-39:19
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\38164c5c82c3293bbf865ee2dd5d6016\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\38164c5c82c3293bbf865ee2dd5d6016\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\83dac78f94368ae1297de509d5959674\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\83dac78f94368ae1297de509d5959674\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\cce78c6ef6d0df9fdbea63b8bc01ec54\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\cce78c6ef6d0df9fdbea63b8bc01ec54\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\6d45cf0aacef50496076090830a0e232\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\6d45cf0aacef50496076090830a0e232\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\feedb4826fd8fa07977178826cf0fee7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\feedb4826fd8fa07977178826cf0fee7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\575a9df04fd14c217b36516fcc428966\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\575a9df04fd14c217b36516fcc428966\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:17:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:26:9-28:55
+	android:value
+		ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:28:13-52
+	android:name
+		ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:27:13-58
+activity#com.example.nikoapps.mapsdemo.MapsDemo
+ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:30:9-38:20
+	android:label
+		ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:32:13-61
+	android:name
+		ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:31:13-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8dd279834546e05b9fa93610e91fd6d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8dd279834546e05b9fa93610e91fd6d7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\38164c5c82c3293bbf865ee2dd5d6016\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\38164c5c82c3293bbf865ee2dd5d6016\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\24e789af874241029b8df9618df72e05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\24e789af874241029b8df9618df72e05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1ac6a7a25df7f4dba27c4ffe02756a95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1ac6a7a25df7f4dba27c4ffe02756a95\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\83dac78f94368ae1297de509d5959674\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\83dac78f94368ae1297de509d5959674\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\cce78c6ef6d0df9fdbea63b8bc01ec54\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\cce78c6ef6d0df9fdbea63b8bc01ec54\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\6d45cf0aacef50496076090830a0e232\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\6d45cf0aacef50496076090830a0e232\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\feedb4826fd8fa07977178826cf0fee7\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\feedb4826fd8fa07977178826cf0fee7\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\575a9df04fd14c217b36516fcc428966\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\575a9df04fd14c217b36516fcc428966\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\cf66613dca094f94454a33276b01649f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\cf66613dca094f94454a33276b01649f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8e941511d3a925b4505309c71306a4ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8e941511d3a925b4505309c71306a4ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\49ef3647175c7ff3684fa378dc29716e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\49ef3647175c7ff3684fa378dc29716e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\020f770e579ef4b9448cf5a275b0cfda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\020f770e579ef4b9448cf5a275b0cfda\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fdf5a9e414a4d98c7d4721ec8a3d9623\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fdf5a9e414a4d98c7d4721ec8a3d9623\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2d65d0df98aa5b97632703769e720264\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2d65d0df98aa5b97632703769e720264\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\93a8a0fea30a3cef120aff8eb4aeda13\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\93a8a0fea30a3cef120aff8eb4aeda13\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cec077386a6fd5b5b73d27d05356797a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cec077386a6fd5b5b73d27d05356797a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\feedb4826fd8fa07977178826cf0fee7\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\janka\Documents\GitHub\MapsDemo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\38164c5c82c3293bbf865ee2dd5d6016\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\38164c5c82c3293bbf865ee2dd5d6016\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\38164c5c82c3293bbf865ee2dd5d6016\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\38164c5c82c3293bbf865ee2dd5d6016\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\38164c5c82c3293bbf865ee2dd5d6016\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\38164c5c82c3293bbf865ee2dd5d6016\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\38164c5c82c3293bbf865ee2dd5d6016\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\83dac78f94368ae1297de509d5959674\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\83dac78f94368ae1297de509d5959674\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\83dac78f94368ae1297de509d5959674\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\83dac78f94368ae1297de509d5959674\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\6d45cf0aacef50496076090830a0e232\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\6d45cf0aacef50496076090830a0e232\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\6d45cf0aacef50496076090830a0e232\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\feedb4826fd8fa07977178826cf0fee7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\575a9df04fd14c217b36516fcc428966\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\575a9df04fd14c217b36516fcc428966\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\feedb4826fd8fa07977178826cf0fee7\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\janka\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\feedb4826fd8fa07977178826cf0fee7\AndroidManifest.xml:27:13-51

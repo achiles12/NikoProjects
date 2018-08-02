@@ -1,0 +1,4 @@
+#Mon Jul 23 22:55:05 SGT 2018
+base.0=C\:\\Users\\janka\\Documents\\GitHub\\Video Demo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex

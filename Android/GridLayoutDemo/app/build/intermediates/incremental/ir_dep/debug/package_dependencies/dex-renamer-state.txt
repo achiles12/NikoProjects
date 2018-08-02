@@ -1,0 +1,4 @@
+#Thu Jul 26 18:31:52 SGT 2018
+base.0=C\:\\Users\\janka\\Documents\\GitHub\\GridLayoutDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
