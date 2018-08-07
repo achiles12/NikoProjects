@@ -1,5 +1,5 @@
 package com.example.nikoapps.memorableplaces;
-
+// new object myPlaces to contain details of places ot be added
 public class MyPlaces {
 
     String nameOfPlace;
