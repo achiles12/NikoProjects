@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- create menu items on the action bar-->
+    <item
+        android:id="@+id/action"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="@string/action"
+        app:showAsAction="always">
+     <!--   <menu>
+
+            <item
+                android:id="@+id/action_settings"
+                android:icon="@android:drawable/ic_menu_preferences"
+                android:title="@string/settings"
+                app:showAsAction="ifRoom" />
+
+            <item
+                android:id="@+id/action_help"
+                android:icon="@android:drawable/ic_menu_help"
+                android:title="@string/help"
+                app:showAsAction="ifRoom" />
+
+        </menu> -->
+    </item>
+</menu>

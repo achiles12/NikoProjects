@@ -52,7 +52,6 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
         mainIntent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_SINGLE_TOP);
         // end of call to the App Bar
 
-
     }
 
     // when button clicked on the app bar
