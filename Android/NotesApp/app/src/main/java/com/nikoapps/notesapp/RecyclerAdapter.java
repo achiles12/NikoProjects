@@ -16,6 +16,7 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolde
     ArrayList<Note> myNotes = new ArrayList<>();
     OnItemClickListner onItemClickListner;
     OnLongItemClick onLongItemClick;
+    //Notes note;
 
     public RecyclerAdapter(Context context, ArrayList<Note> myNotes, OnItemClickListner onItemClickListner, OnLongItemClick onLongItemClick){
         this.context = context;

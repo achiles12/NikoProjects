@@ -68,7 +68,7 @@ public class WhatsTheWeather extends AppCompatActivity {
         }
 
         // this method can interact and update the UI
-        // this will receive the retrun value of the on background task
+        // this will receive the return value of the on background task
         @Override
         protected void onPostExecute(String result) {
             super.onPostExecute(result);
