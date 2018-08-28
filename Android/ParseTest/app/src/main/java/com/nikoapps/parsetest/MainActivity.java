@@ -5,10 +5,12 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
 import com.parse.FindCallback;
+import com.parse.ParseACL;
 import com.parse.ParseAnalytics;
 import com.parse.ParseException;
 import com.parse.ParseObject;
 import com.parse.ParseQuery;
+import com.parse.ParseUser;
 
 import java.util.List;
 
@@ -68,6 +70,15 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 */
+
+        ParseUser.enableAutomaticUser();
+
+        ParseACL defaultACL = new ParseACL();
+        defaultACL.setPublicReadAccess(true);
+        defaultACL.setPublicWriteAccess(true);
+        ParseACL.setDefaultACL(defaultACL, true);
+
+
 
 /*        // query parse object
         ParseQuery<ParseObject> query = ParseQuery.getQuery("Score");
