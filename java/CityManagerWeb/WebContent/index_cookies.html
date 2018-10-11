@@ -1,0 +1,31 @@
+<html>
+	<head>
+		<title>Welcome to the City Manager</title>
+	</head>
+</html>
+<body>
+	<form id="form1" method="post" 
+			action="/CityManagerWeb/loginwithcookieinfo.do">
+		<table style="width:100%">
+			<!-- assume user would have choice here 
+				to do many actions, some of which would 
+				cause them to have to login
+			-->
+			<tr>
+				<td>
+					<input name="loginoption" type="submit" value="Login" />
+				</td>
+			</tr>
+		</table>
+	</form>
+	<form id="form2" method="post" 
+			action="/CityManagerWeb/removecookies.do">
+		<table style="width:100%">
+			<tr>
+				<td>
+					<input name="removecookies" type="submit" value="Remove Cookies" />
+				</td>
+			</tr>
+		</table>
+	</form>
+</body>

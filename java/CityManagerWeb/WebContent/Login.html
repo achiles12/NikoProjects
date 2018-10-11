@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>User Login</title>
+</head>
+<body>
+	<form id="form1" name="frmLogin"
+		action="/CityManagerWeb/userlogin.do" method="post">
+		<table>
+			<tr>
+				<td>
+					<span>Username:</span>
+				</td>
+				<td>
+					<input type="text" name="userID" />
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<span>Password:</span>
+				</td>
+				<td>
+					<input type="password" name="pwd" />
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" align="right">
+					<input name="loginbutton" 
+						type="submit" value="Log In" />
+				</td>
+			</tr>
+		</table>
+	</form>
+</body>
+</html>
