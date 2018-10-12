@@ -1,54 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" id="WebApp_ID" version="3.0">
   <display-name>CityManagerWeb</display-name>
-  
+  <listener>
+    <listener-class>company.citymanager.helpers.DBManagerSetup</listener-class>
+  </listener>
+  <listener>
+    <listener-class>company.citymanagerweb.sessionlisteners.ActiveUserTracking</listener-class>
+  </listener>
+  <listener>
+    <listener-class>company.citymanagerweb.sessionlisteners.SessionTrackingAndLogging</listener-class>
+  </listener>
   <servlet>
-  	<servlet-name>servletparameters</servlet-name>
+    <servlet-name>servletparameters</servlet-name>
     <servlet-class>company.citymanagerweb.servlets.ServletParameters</servlet-class>
-   	
-	<!-- This is a servlet parameter can only be accessed on the servlet -->   	
-   	<init-param>
-   		<param-name>secretCode</param-name>
-   		<param-value>111-11-1111</param-value>
-  	</init-param>
+    <init-param>
+      <param-name>secretCode</param-name>
+      <param-value>111-11-1111</param-value>
+    </init-param>
   </servlet>
-  
   <servlet-mapping>
     <servlet-name>servletparameters</servlet-name>
-  	<url-pattern>/ServletParameters.do</url-pattern>
+    <url-pattern>/ServletParameters.do</url-pattern>
   </servlet-mapping>
-  
-  <!-- This is a global parameter can be accessed anywhere in the project-->
   <context-param>
-  	<param-name>dbURL</param-name>
-  	<param-value>jdbc:mysql://localhost/world</param-value>
+    <param-name>dbURL</param-name>
+    <param-value>jdbc:mysql://localhost/world</param-value>
   </context-param>
-  
-  <!-- This is a global parameter can be accessed anywhere in the project-->
   <context-param>
     <param-name>initialseed</param-name>
-  	<param-value>2</param-value>
+    <param-value>2</param-value>
   </context-param>
-  
+  <context-param>
+    <param-name>dbURL</param-name>
+    <param-value>jdbc:mysql://localhost/world</param-value>
+  </context-param>
+  <context-param>
+    <param-name>dbuserid</param-name>
+    <param-value>jconsul</param-value>
+  </context-param>
+  <context-param>
+    <param-name>dbuserpwd</param-name>
+    <param-value>mumbaki12#</param-value>
+  </context-param>
+  <context-param>
+    <param-name>dbinitcat</param-name>
+    <param-value>world</param-value>
+  </context-param>
   <session-config>
-  	<!--  how long will the session remain active in minutes application level-->
-  	<session-timeout>20</session-timeout>
-  	<cookie-config>
- 		<!-- so only http requests are entertained and not hijacked by javascript -->
-  		<http-only>true</http-only>
-  		
-  		<!-- cookies are saved on the secure layer -->
-  		<!-- still secure even if not HTTPS -->
-  		<!-- <secure>true</secure>  -->
-  		<!-- how long cookie is stored -->
-  		<max-age>23</max-age>
-  	</cookie-config>
-  	
-  	<!-- url encoded with jsession id on the url bar -->
-  	<!-- lock down to cookie only -->
-  	<tracking-mode>COOKIE</tracking-mode>
+    <session-timeout>20</session-timeout>
+    <cookie-config>
+      <http-only>true</http-only>
+      <max-age>23</max-age>
+    </cookie-config>
+    <tracking-mode>COOKIE</tracking-mode>
   </session-config>
-  
   <welcome-file-list>
     <welcome-file>index.html</welcome-file>
     <welcome-file>index.htm</welcome-file>
