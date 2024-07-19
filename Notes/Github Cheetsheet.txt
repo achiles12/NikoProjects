@@ -1,0 +1,72 @@
+git rev-parse --abbrev-ref HEAD => display only the name of the current branch
+git init => initialize repo on cwd
+git add <fname> => track this file on repo
+git add . => track this directory on repo
+git commit -m "<changes and other comments" => commit changes
+git status -current sate of the repo
+git branch <branch_name> => create a new branch
+git branch -a => list all branches
+git branch -d <branch_name> => delete branch
+git checkout <branch_name> => checkout existing branch
+git checkout -b <new_branch> =>  checkout and create a new branch
+git merge =>  combine branch to current branch
+git remote <command> <remote_name> <remote_URL> =>  add a remote repo
+git clone <remote_URL> =>  clone remote URL to local
+git pull <branch_name> <remote_URL/remote_name> =>  To get the latest version of a repository run git pull. This pulls the changes from the remote repository to the local computer.
+git push <remote_URL/remote_name> <branch> => Sends local commits to the remote repository. git push requires two parameters: the remote repository and the branch that the push is for.
+git stash -u => To save changes made when they’re not in a state to commit them to a repository. This will store the work and give a clean working directory. For instance, when working on a new feature that’s not complete, but an urgent bug needs attention.
+git stash pop => Bring stashed work back to the working directory
+git log =>  commit history
+git rm --cached <file name> => Remove files or directories from the working index
+git config --get remote.origin.url=>  Tip to get only the remote URL:
+
+
+
+" deploy to github pages
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/nelsonmic/testxx.git
+git push -u origin main
+"
+
+npm install gh-pages --save-dev
+
+npm run deploy
+
+Repositories:
+China
+
+git clone https://github.com/FedEx/eai-83-accs_c2.git
+git clone https://github.com/FedEx/eai-83-accs_can.git
+git clone https://github.com/FedEx/eai-83-gemini-legacy-edi-uploader-sg
+git clone https://github.com/FedEx/eai-83-gemini-inbound-legacy-rawevent-service
+git clone https://github.com/FedEx/eai-83-accsm-system-maven-archetypes
+git clone https://github.com/ihuaylupo/manning-smia/
+git clone https://github.com/FedEx/eai-83-accs_china_services
+
+
+git clone https://github.com/achiles12/NikoProjects
+
+git clone https://github.com/FedEx/eai-83-accs_sg
+
+git clone https://github.com/FedEx/eai-83-accs_nz
+
+git clone https://github.com/AlexStormwood/feb23-t3w8-ptcg-app
+
+git clone https://github.com/FedEx/eai-83-accs_my
+
+Singapore
+git clone https://github.com/FedEx/eai-83-accs_sg.git
+git clone https://github.com/FedEx/eai-83-accs_sgmodules.git
+
+
+git clone https://github.com/zMyrddin/z-stash-back
+
+short decscription
+
+story id
+
+long description
+
+
+select dbms_metadata.get_ddl('TABLE', 'DG_KEYWORDS') from dual;
